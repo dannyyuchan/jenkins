@@ -1,0 +1,21 @@
+https://docs.cloudbees.com/docs/cloudbees-cd/latest/install-trad/choose-process
+
+Express Server
+
+1. download file https://docs.cloudbees.com/docs/cloudbees-cd/latest/install-trad/
+https://downloads.cloudbees.com/cloudbees-cd/Release_2023.06/2023.06.0.164409/index.html
+
+
+
+2. install steps
+https://docs.cloudbees.com/docs/cloudbees-cd/latest/install-trad/clexpress-server
+
+
+[root@cd1 ~]# chmod +x CloudBeesFlow-x64-2023.06.0.164409
+[root@cd1 ~]# ./CloudBeesFlow-x64-2023.06.0.164409
+- Invoked CloudBees Software Delivery Automation installer process.  Continue? [n/Y] y
+- Upgrade the existing 2023.04.0.162443 installation to version 2023.06.0.164409? [n/Y] y
+
+
+3. Auto start
+https://docs.cloudbees.com/docs/cloudbees-cd/latest/configure/server-auto-start-non-root-inst#_setting_up_autostart
